@@ -3,7 +3,7 @@
 ## Installation
 
 1. Go in your website directory and run `curl -O https://raw.githubusercontent.com/wp-globalis-tools/wpg-htaccess/master/wpg-htaccess .htaccess`
-2. Find / Replace <WP_SITE_DIR> with your site root directory
+2. Find / Replace `<WP_SITE_DIR>` with your site root directory
 
 ## Examples
 
